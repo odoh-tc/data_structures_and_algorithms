@@ -28,3 +28,6 @@ def print3largest(arr):
 # Driver program to test above function
 arr = [12, 13, 50, 10, 34, 1, 100]
 print3largest(arr)
+
+# Time Complexity: O(n)
+# Space Complexity: O(1)
